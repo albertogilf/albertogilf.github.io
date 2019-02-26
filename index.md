@@ -25,7 +25,7 @@
 
 </div>
 
-## Research Projects (#research-projects "link to projects")
+## Research Projects 
 
 *   Metabolomics
     *   [Ceu Mass Mediator](https://github.com/albertogilf/ceuMassMediator)
@@ -38,7 +38,7 @@
     *   [GPU-Based Acceleration of ECG Characterization Using High-Order Hermite Polynomials](https://albertogilf.github.io/ECGHermiteApproximation/gil2016.pdf)
     *   [Low-Power, Low-Latency Hermite Polynomial Characterization of Heartbeats Using a Field-Programmable Gate Array](https://link.springer.com/chapter/10.1007/978-3-319-31744-1_24)
 
-## Courses (#courses "link to courses")
+## Courses 
 
 *   [Web development tutorial using Flask for IT introduction](https://albertogilf.github.io/web_server_introduction/README.md)
 
