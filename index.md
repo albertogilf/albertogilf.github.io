@@ -17,7 +17,7 @@
 <div id="contactDetails">
 
 *   [alberto.gilf@gmail.com](mailto:alberto.gilf@gmail.com)
-*   [GitHub](https://github.com/alberto.gilf)
+*   [GitHub](https://github.com/albertogilf)
 *   [Ceu Mass Mediator](http://ceumass.eps.uspceu.es/)
 *   [Resume](https://albertogilf.github.io/resume/cv_GildelaFuenteAlberto.html) ([pdf](https://albertogilf.github.io/resume/cv_GildelaFuenteAlberto.pdf))
 
